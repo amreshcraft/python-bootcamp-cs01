@@ -1,0 +1,9 @@
+- FUNCTION
+- CSV - Test
+- Binary DATA
+- SQL JOINS
+- SQL KEY
+- NETWORKING
+- STACK - Practice 
+- DICTIONARY - Practice
+- Project 
